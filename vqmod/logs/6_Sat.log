@@ -1,0 +1,22 @@
+---------- Date: 2018-10-06 19:48:29 ~ IP : ::1 ----------
+REQUEST URI : /ij/admin/
+MOD DETAILS:
+   modFile   : C:\xampp\htdocs\ij\vqmod/xml/a_vqmod_d_social_login.xml
+   id        : d_social_login
+   version   : 2.x
+   vqmver    : 2.4.1
+   author    : dreamvention.com
+VQModObject::parseMods - Could not resolve path for [admin/model/sale/customer.php] (SKIPPED)
+
+MOD DETAILS:
+   modFile   : C:\xampp\htdocs\ij\vqmod/xml/newslettersubscription.xml
+   id        : Indian Rupee Symbol
+   version   : 2.0
+   vqmver    : 2.4.1
+   author    : IRSSOFT
+VQModObject::parseMods - Could not resolve path for [admin/controller/common/menu.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/view/template/common/menu.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
